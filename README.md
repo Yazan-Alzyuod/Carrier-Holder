@@ -1,4 +1,4 @@
-# Carrier-Holder-Analysis
+# Carrier-Holder-Mechanical-Analysis
 # Static Structural Analysis of Mechanical Part (Steel 37) 🛡️
 
 
